@@ -1,16 +1,20 @@
-#pengalaman-belajar
-
-Deskripsi
-Java merupakan bahasa yang diciptakan oleh James Gosling di tahun 1990-an. Java muncul sebagai bahasa yang dapat dijalankan di berbagai platform tanpa perlu re-kompilasi. Berdasarkan TIOBE Programming Community Index, Java masih merupakan salah satu bahasa pemrograman terpopuler di dunia. Oracle menyatakan 90% perusahaan terkemuka pada daftar Fortune 500 pernah menggunakan bahasa Java. Selain itu, Java juga dapat digunakan untuk mengembangkan aplikasi pada platform desktop, web, mobile, embedded, dan IoT. 
-
-Bahasa Java merupakan bahasa terpopuler yang pernah digunakan oleh 90% perusahaan ternama.
-Dengan bahasa Java, Anda dapat mengembangkan aplikasi untuk platform desktop, web, mobile, hingga embedded dan IoT.
-Siapa pun Anda, jika ingin menjadi Java Developer harus memiliki pengetahuan dasar pemrograman Java seperti Java Dasar, Control Flow, Collection Type, dan Object-Oriented Programming.
-Penggunaan bahasa Java itu gratis (open source), sehingga siapa saja dapat mempelajari dan menggunakannya.
-Berdasarkan TIOBE Programming Community Index, Java masih menjadi salah satu bahasa pemrograman terpopuler di dunia. 
-
-15 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-* Belajar control flow dalam Java, seperti perulangan dan percabangan.
-* Belajar tipe data koleksi, seperti list, set, dan map.
+# Halo semua! 
+ 
+Perkenalkan nama saya **Aldiyanson Panji Jawa**.<br>
+ 
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+ 
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+ 
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/aldiyanson/
+)ku ya.
+ 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
